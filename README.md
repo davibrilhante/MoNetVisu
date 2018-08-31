@@ -15,6 +15,7 @@ partir de data sets de mobilidade e posicionamento de ERBS (Estação Rádio Bas
 
 # Como Utilizar
 1 . Descompacte os arquivos no data set de ERBS
+
 2 . Execute o script "shezen-erbs.py" com "spark-submit". O script espera como argumento o tipo de visualização desejado, que podem ser valores de 0 a 4.
 
 Para executar com o Jupyter Notebook, basta executá-lo na pasta onde está o arquivo "shenzen-erbs.ipynb"

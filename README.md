@@ -5,8 +5,13 @@ TEBDI do Curso de Pós graduação em Eng. de Sistemas e Computaão da COPPE UFR
 O MoNet Visu (Mobile Network Big Data Visualization) é uma aplicação de big data para vizualização de dados em redes móveis a 
 partir de data sets de mobilidade e posicionamento de ERBS (Estação Rádio Base).
 
-Pré-requisitos
+# Pré-requisitos
 instalar:
+
   Spark
+  
   Matplotlib
   
+  Shapely
+  
+  Operator

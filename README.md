@@ -12,3 +12,13 @@ partir de data sets de mobilidade e posicionamento de ERBS (Estação Rádio Bas
   Operator
   Ipython
   Jupyter
+
+# Sobre os Datasets
+Os datasets foram obtidos em plataformas opensource, sem custos desde que não sejam usados para fins lucrativos e seja reconecida
+a autoria.
+
+Os datasets das ERBS foi obtido em: https://www.opencellid.org/stats.php
+
+Os datasets de mobilidade foram obtidos em: https://www-users.cs.umn.edu/~tianhe/BIGDATA/
+
+Os autores deste trabalho reconhecem a autoria destes datasets de acordo com o exposto nas páginas listadas acima.

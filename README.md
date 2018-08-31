@@ -1,4 +1,4 @@
-# MoNetVisu
+# MoNet Visu
 Os códigos hospedados neste repositório são de autoria de Davi da Silva Brilhante, em comprimento dos requisitos da disciplina 
 TEBDI do Curso de Pós graduação em Eng. de Sistemas e Computaão da COPPE UFRJ.
 

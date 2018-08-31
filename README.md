@@ -6,9 +6,9 @@ O MoNet Visu (Mobile Network Big Data Visualization) é uma aplicação de big d
 partir de data sets de mobilidade e posicionamento de ERBS (Estação Rádio Base).
 
 # Pré-requisitos
-Spark
-Matplotlib
-Shapely
-Operator
-Ipython
-Jupyter
+  Spark
+  Matplotlib
+  Shapely
+  Operator
+  Ipython
+  Jupyter
